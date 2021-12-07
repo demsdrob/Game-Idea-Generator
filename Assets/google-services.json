@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "308128856572",
+    "firebase_url": "https://game-idea-generator-40ff4-default-rtdb.firebaseio.com",
+    "project_id": "game-idea-generator-40ff4",
+    "storage_bucket": "game-idea-generator-40ff4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308128856572:android:2969abe3eaea840b1fda79",
+        "android_client_info": {
+          "package_name": "com.MancosStudios.GameIdeaGenerator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308128856572-93vsngkbq7lip08n1f1qekhjlooj1l7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqhiDiSUibxblQ898CPu56rvohKFt5WdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308128856572-93vsngkbq7lip08n1f1qekhjlooj1l7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

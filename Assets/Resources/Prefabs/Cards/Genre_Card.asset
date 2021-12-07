@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1630ab6e7ae8a1b42a8c75322d565924, type: 3}
+  m_Name: Genre_Card
+  m_EditorClassIdentifier: 
+  _tittle: GENRE
+  _description: THE STYLE OF THE GAME
+  _cardColor: {r: 0.003921569, g: 0.59607846, b: 0.75294125, a: 1}
+  _elements:
+  - Platform
+  - Shooter
+  - Fighting
+  - Beat 'em up
+  - Survival
+  - Battle Royale
+  - Rhythm
+  - Survival horror
+  - Text adventure
+  - Graphic adventure
+  - Visual novel
+  - Interactive movie
+  - RPG
+  - MMORPG
+  - Sandbox RPG
+  - JRPG
+  - Monster Tamer
+  - Construction and management simulation
+  - Life simulation
+  - Vehicle simulation
+  - Artillery game
+  - Multiplayer online battle arena
+  - Tower defense
+  - Wargame
+  - Racing
+  - Sports
+  - Competitive
+  - Casual
+  - Horror
+  - Party game
+  - Trivia
+  - Advergame
+  - Art game
+  - Educational
+  - Sandbox
+  - One Touch
+  - Puzzle
+  - Arcade

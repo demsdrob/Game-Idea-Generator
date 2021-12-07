@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1630ab6e7ae8a1b42a8c75322d565924, type: 3}
+  m_Name: Place_Card
+  m_EditorClassIdentifier: 
+  _tittle: PLACE
+  _description: WHERE IS THE GAME SET
+  _cardColor: {r: 0.9450981, g: 0.37254903, b: 0.3921569, a: 1}
+  _elements:
+  - Cave
+  - Rainforest / Jungle
+  - Space
+  - Alternate Reality
+  - Sea / Ocean
+  - Castle
+  - At Home
+  - City
+  - Supermarket
+  - Inside A Computer
+  - Sky
+  - Airport
+  - Amusement Park
+  - Apartments
+  - Aquarium
+  - Back Alley
+  - Bank
+  - Bar/Pub
+  - Beach
+  - Library
+  - Bridge
+  - Bowling Alley
+  - Bunker / Shelter
+  - Canyon
+  - Casino
+  - Cemetery/Mausoleums
+  - Circus
+  - Construction Site
+  - Coffee Shop
+  - Desert
+  - Factory
+  - Fire Station
+  - Forest
+  - Fort
+  - Gallery (Art)
+  - Gas Station
+  - Hell / Heaven
+  - Hockey / Ice Skating Rink
+  - Hospital/Clinic
+  - Island
+  - Lake
+  - Military Outpost / Military Camp
+  - Motel
+  - Mountain
+  - Nuclear PlanT / Energy Plant
+  - Park
+  - Psychiatric Institution / Hospital
+  - Restaurant
+  - Road
+  - Skate Park
+  - Ski Center
